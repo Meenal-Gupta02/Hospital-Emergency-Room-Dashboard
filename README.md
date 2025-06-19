@@ -42,7 +42,7 @@ Business Impact:
 • Diversity & Inclusion Insight : Demographic analysis shows broad racial representation and highlights potential equity concerns for future policy-making.
 
 Screenshot Of Dashboard: 
-![Dashboard Preview].(https://github.com/Meenal-Gupta02/Hospital-Emergency-Room-Dashboard/blob/main/Monthly%20View.png).
+(https://github.com/Meenal-Gupta02/Hospital-Emergency-Room-Dashboard/blob/main/Monthly%20View.png).
 
 
 
