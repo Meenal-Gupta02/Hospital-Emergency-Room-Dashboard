@@ -12,10 +12,10 @@ This interactive Power BI dashboard project presents a comprehensive analysis of
 
 ## Highlights:
 - Multiple View Modes:
-•	Monthly View: Zoom into specific months for granular insights.
-•	Consolidated View: Overall performance and usage trends.
-•	Patient Details: Row-level data visibility with demographic and wait time filters.
-•	Key Takeaways: Executive summary of key metrics and trends.
+- Monthly View: Zoom into specific months for granular insights.
+- Consolidated View: Overall performance and usage trends.
+- Patient Details: Row-level data visibility with demographic and wait time filters.
+-	Key Takeaways: Executive summary of key metrics and trends.
 
 - Key Metrics Tracked:
 •	Total number of patients
