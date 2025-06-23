@@ -11,25 +11,25 @@ This interactive Power BI dashboard project presents a comprehensive analysis of
 - Power BI Bookmarks and Filters – to enable monthly, consolidated, and detailed views
 
 ## Highlights:
-- Multiple View Modes:
+Multiple View Modes:
 - Monthly View: Zoom into specific months for granular insights.
 - Consolidated View: Overall performance and usage trends.
 - Patient Details: Row-level data visibility with demographic and wait time filters.
 -	Key Takeaways: Executive summary of key metrics and trends.
 
-- Key Metrics Tracked:
-•	Total number of patients
-•	Average wait time
-•	Patient satisfaction score
-•	Admission vs. non-admission counts
-•	Department-wise referrals
-•	Race and gender distribution
-•	Peak hours and busy weekdays
+Key Metrics Tracked:
+- Total number of patients
+- Average wait time
+- Patient satisfaction score
+- Admission vs. non-admission counts
+- Department-wise referrals
+- Race and gender distribution
+- Peak hours and busy weekdays
 
--Visual Elements:
-•	Bar and column charts, donut charts, heatmaps, and slicers
-•	Color-coded visuals for easy pattern recognition
-•	Hourly and daily traffic analysis using heatmaps
+Visual Elements:
+- Bar and column charts, donut charts, heatmaps, and slicers
+- Color-coded visuals for easy pattern recognition
+- Hourly and daily traffic analysis using heatmaps
 
 ## Business Impact:
 • Operational Optimization : The dashboard identifies peak busy hours (11AM, 7PM, 1PM, and 11PM) and busiest days (Saturday, Sunday, Wednesday), helping with optimal staff allocation and resource management.
