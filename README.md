@@ -32,13 +32,13 @@ Visual Elements:
 - Hourly and daily traffic analysis using heatmaps
 
 ## Business Impact:
-• Operational Optimization : The dashboard identifies peak busy hours (11AM, 7PM, 1PM, and 11PM) and busiest days (Saturday, Sunday, Wednesday), helping with optimal staff allocation and resource management.
+- Operational Optimization : The dashboard identifies peak busy hours (11AM, 7PM, 1PM, and 11PM) and busiest days (Saturday, Sunday, Wednesday), helping with optimal staff allocation and resource management.
 
-• Strategic Decision-Making : With nearly equal numbers of admitted and non-admitted patients and a breakdown of referral departments, administrators can make informed decisions about departmental needs and triage processes.
+- Strategic Decision-Making : With nearly equal numbers of admitted and non-admitted patients and a breakdown of referral departments, administrators can make informed decisions about departmental needs and triage processes.
 
-• Improved Patient Experience : Though satisfaction scores are relatively high (4.99/5), the wait time (35.3 mins avg.)  indicates a need for process improvement to meet target response times (only 40.68% seen within 30 minutes).
+- Improved Patient Experience : Though satisfaction scores are relatively high (4.99/5), the wait time (35.3 mins avg.)  indicates a need for process improvement to meet target response times (only 40.68% seen within 30 minutes).
 
-• Diversity & Inclusion Insight : Demographic analysis shows broad racial representation and highlights potential equity concerns for future policy-making.
+- Diversity & Inclusion Insight : Demographic analysis shows broad racial representation and highlights potential equity concerns for future policy-making.
 
 ## Screenshot Of Dashboard: 
 (https://github.com/Meenal-Gupta02/Hospital-Emergency-Room-Dashboard/blob/main/Monthly%20View.png).
