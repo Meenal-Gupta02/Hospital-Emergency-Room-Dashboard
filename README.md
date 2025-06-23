@@ -4,8 +4,8 @@
 This interactive Power BI dashboard project presents a comprehensive analysis of emergency room (ER) data collected over a 19-month period. It is designed to help hospital administrators and healthcare professionals monitor patient flow, analyze demographics, track departmental referrals, and optimize operational efficiency in the emergency department.
 
 ## Tech Stack:
-• 	Power BI – for interactive dashboard development and data visualization
-• 	Microsoft Excel / CSV – used as the primary data source
+ • Power BI – for interactive dashboard development and data visualization
+ •	Microsoft Excel / CSV – used as the primary data source
 •	DAX (Data Analysis Expressions) – for calculated measures and custom KPIs
 •	Power Query – for data transformation and modeling
 •	Power BI Bookmarks and Filters – to enable monthly, consolidated, and detailed views
